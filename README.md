@@ -10,5 +10,3 @@ This project serves the needs of clients seeking a sophisticated software soluti
         
 
 
-## Usage:
-- You can manipulate the database with POST, PUT, and DELETE requests. Furthermore, GET requests will list all the data for each database model and their associated models using hasMany and belongsTo commands in the javascript. 
